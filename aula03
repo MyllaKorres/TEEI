@@ -8,10 +8,12 @@
   </head>
 
   <body>
-      <h1>HELLO, Everyone!</h1>
-      <h1>HELLO, Mylla!</h1>
+      <h4>HELLO, Everyone!</h4>
+      <h3>HELLO, Mylla!</h3>
+      
+      <h5>da próxima vez faz mais rápido kkkk</h5>
       <footer class="rodape">
-          <p>VERSÃO 01</p>
+          <p>VERSÃO 02</p>
       </footer>
   </body>
 </html>
